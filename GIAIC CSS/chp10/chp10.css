@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    margin-bottom: 20px;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 14px;
+}
+th, td {
+    border: 1px black double;
+    text-align: center;
+    padding: 10px;
+}
+.alkali-metal { background-color: cadetblue; }
+.alkaline-earth { background-color: lightpink; }
+.transition-metal { background-color: goldenrod; }
+.post-transition { background-color: palevioletred; }
+.metalloid { background-color: palegreen; }
+.nonmetal { background-color: lightsalmon; }
+.noble-gas { background-color: plum; }
+.lanthanides { background-color: darkseagreen; }
+.actinides { background-color: darkolivegreen; }
+.legend {
+    justify-content: center;
+    border: 2px solid;
+}
